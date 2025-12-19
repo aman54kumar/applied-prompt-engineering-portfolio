@@ -10,7 +10,6 @@ Analyze the following tender document and summarize it.
 - No clear separation of scope, deliverables, or risks
 
 
-
 ## Prompt Version 2 – Structured Tasks
 
 ### Prompt
@@ -28,7 +27,6 @@ Provide the output under clearly labeled sections.
 - More relevant details extracted
 - Still includes assumptions in some areas
 - Tone varies and may not be government-appropriate
-
 
 
 ## Prompt Version 3 – Controlled Output

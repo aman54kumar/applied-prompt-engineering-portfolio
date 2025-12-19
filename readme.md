@@ -1,0 +1,2 @@
+Tender Bid Submission Analysis System
+Designed a structured prompt system to extract eligibility criteria, technical requirements, and bid submission checklists from RFP documents, reducing compliance risk and manual review effort in government tender submissions.
